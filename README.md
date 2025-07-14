@@ -89,7 +89,6 @@ yaml
 
 ## 開発・問い合わせ先
 
-開発元：Studio Hazama / 介塚はざま  
-公式サイト：[https://hazama714.studio/](https://hazama714.studio/)  
+開発元：Studio Hazama714 / 介塚はざま  
 
 ご意見・不具合報告は GitHub Issue または Twitter にて受け付けています。
